@@ -1,0 +1,19 @@
+{
+  "athletes": [
+    {
+      "id": 2,
+      "name": "Tson Fury",
+      "sport": "Boxing"
+    },
+    {
+      "id": 3,
+      "name": "Sugar Ray Leo",
+      "sport": "Boxing"
+    },
+    {
+      "id": 4,
+      "name": "Coby Covington",
+      "sport": "MMA"
+    }
+  ]
+}
