@@ -6,4 +6,4 @@
 
 <br/>
 <br/>
-A simple project to demonstrate how rtk query works with typescript
+A simple project to demonstrate how rtk query works with typescript.
