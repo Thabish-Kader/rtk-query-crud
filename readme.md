@@ -7,3 +7,6 @@
 <br/>
 <br/>
 A simple project to demonstrate how rtk query works with typescript.
+
+### Youtube
+[![RTK Query Made Easy: A Beginner's Guide to Data Management | CRUD](https://ytcards.demolab.com/?id=DRxBQcRbC_8&title=RTK+Query+Made+Easy%3A+A+Beginner%27s+Guide+to+Data+Management+%7C+CRUD&lang=en&timestamp=1682625606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "RTK Query Made Easy: A Beginner's Guide to Data Management | CRUD")](https://www.youtube.com/watch?v=DRxBQcRbC_8)
